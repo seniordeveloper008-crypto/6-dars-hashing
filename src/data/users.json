@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Alisher",
+    "email": "alisher12@gmail.com",
+    "password": "salom123"
+  },
+  {
+    "id": 2,
+    "name": "Ali",
+    "email": "mavlyanovmehroj@gamil.com",
+    "password": "salom123"
+  },
+  {
+    "id": 3,
+    "name": "Ali",
+    "email": "mavlyanovmehroj@gamil.com",
+    "password": "$2b$10$SGcOewD0xShAet.Lv/QTGOCP1EnNB.oNMLs6PpHmn./IoxEgVS/M."
+  },
+  {
+    "id": 4,
+    "name": "Ali",
+    "email": "mavlyanovmehroj@gamil.com",
+    "password": "$2b$10$zxK4Th6Vz9mP9xxdKQRjXuPNbAlL1xIVJdz9I3j.b0XlX5lU54tJ2"
+  },
+  {
+    "id": 5,
+    "name": "Ali",
+    "email": "mavlyanovmehroj@gamil.com",
+    "password": "$2b$10$OgWUsTiiKu7bMs.V1M1C1.mx/W6vd9ilRTTySeVOLx2KnOHrrCQmS"
+  },
+  {
+    "id": 6,
+    "name": "Ali",
+    "email": "mavlyanovmehroj@gamil.com",
+    "password": "$2b$10$7LA79zAUq6ANqXfQJ6gQbutXBKftiNQ6uFNcyXn7h3FD9gHLFpvX2"
+  },
+  {
+    "id": 7,
+    "name": "Ali",
+    "email": "mavlyanovmehroj@gamil.com",
+    "password": "$2b$10$mXjASClikxc5ckmgh73DWenyYmhU4.GVjAnVagDYdl2gj8Bdn6Uva"
+  }
+]
